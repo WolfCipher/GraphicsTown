@@ -1,7 +1,18 @@
-# CS559 Workbook, Spring 2025
+# CS599 Portfolio Project
+For this project, I created a graphics town. In my graphics town, there are all four seasons.
 
-This set of web pages forms a "workbook" assignment for 
-CS559, Computer Graphics at the University of Wisconsin for Spring 2025.
+Some things of note include:
+- I created my own fragment and vertex shaders.
+- I used sine noise.
+- I used normal and bump maps.
+- I modeled reflections.
+- I created complex animations.
+- I created particle motion.
+
+## Credit to CS559
+
+*This set of web pages forms a "workbook" assignment for 
+CS559, Computer Graphics at the University of Wisconsin for Spring 2025.*
 
 Students should run a local web server and start with the `index.html` page.
 The html files may not work as "files" without a local server.
