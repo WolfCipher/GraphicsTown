@@ -1,5 +1,5 @@
 # CS599 Portfolio Project
-For this project, I created a graphics town. In my graphics town, there are all four seasons.
+For this project, I created a graphics town. In my graphics town, each of the four seasons has its own quarter of the town.
 
 Some things of note include:
 - I created my own fragment and vertex shaders.
