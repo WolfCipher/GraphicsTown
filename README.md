@@ -1,4 +1,4 @@
-# CS599 Portfolio Project
+# Portfolio Project 3 for Honors CS599, Spring 2025
 For this project, I created a graphics town. In my graphics town, each of the four seasons has its own quarter of the town.
 
 Some things of note include:
