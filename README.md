@@ -8,6 +8,11 @@ Some things of note include:
 - I modeled reflections.
 - I created complex animations (particle motion, objects that follow paths, animated articulated figures).
 
+The user can also interact with the town:
+- Press (b) to follow a moving bird's eye view.
+- Manipulate a forklift with (w,a,s,d) for position, (q,e) for rotation, and (r,f) for fork height.
+- Manipulate a bulldozer with (i,j,k,l) for position, (u,o) for rotation, (y,h) for arm height, and (t,g) for head rotation.
+
 ## Credit to CS559
 
 *This set of web pages forms a "workbook" assignment for 
