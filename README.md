@@ -2,12 +2,11 @@
 For this project, I created a graphics town. In my graphics town, each of the four seasons has its own quarter of the town.
 
 Some things of note include:
-- I created my own fragment and vertex shaders.
-- I used sine noise.
-- I used normal and bump maps.
+- I created my own fragment and vertex shaders, including an animated water shader.
+- I used sine noise to influence the placement of objects.
+- I used texture maps.
 - I modeled reflections.
-- I created complex animations.
-- I created particle motion.
+- I created complex animations (particle motion, objects that follow paths, animated articulated figures).
 
 ## Credit to CS559
 
